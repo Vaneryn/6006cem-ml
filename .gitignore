@@ -161,5 +161,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Project-specific files
+# Project root files
 references.md
+
+# Dataset files
+data/raw/brfss_heart_2022.csv
