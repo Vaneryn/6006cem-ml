@@ -21,4 +21,6 @@ pip freeze > requirements.txt
 
 ## Tasks
 ### Task 1: Regression
+Monthly Rental Price Prediction on Kuala Lumpur/Selangor Property Dataset from Mudah
 ### Task 2: Classification
+Heart Attack Prediction on CDC Behavioral Risk Factor Surveillance System 2022 Dataset
