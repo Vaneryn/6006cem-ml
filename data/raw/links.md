@@ -11,3 +11,6 @@ https://data.gov.my/data-catalogue/crime_district
 
 ### Student Performance
 https://www.kaggle.com/datasets/larsen0966/student-performance-data-set
+
+### Heart Attack Prediction
+https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease 
